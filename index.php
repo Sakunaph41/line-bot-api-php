@@ -1,2 +1,2 @@
 <?php
-echo "Hello LINE BOT \"KANT_59160048\"";
+echo "Hello LINE BOT \"Sakuna_59160048\"";
